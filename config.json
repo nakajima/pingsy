@@ -1,0 +1,12 @@
+{
+  "urls": [
+    "http://patnakajima.com",
+    "https://google.com"
+  ],
+  "mqtt": {
+    "host": "mqtt.fishmt.net",
+    "port": 1884,
+    "username": "admin",
+    "password": "password"
+  }
+}
